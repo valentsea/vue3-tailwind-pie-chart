@@ -55,7 +55,7 @@ const element = ref(null)
 const slots = useSlots()
 
 const viewBox = computed(() => {
-  const diameter = element.value ? element.value.offsetWidth * 2 : 24
+  const diameter = element.value ? element.value.offsetWidth : 24
 
   return `-${diameter / 2} -${diameter / 2} ${diameter} ${diameter}`
 })
