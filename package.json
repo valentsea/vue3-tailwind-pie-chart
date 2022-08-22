@@ -1,6 +1,8 @@
 {
-  "name": "vue3-tailwind-piechart",
-  "version": "1.0.0",
+  "name": "vue3-tailwind-pie-chart",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Vue 3 Component for displaying pie chart",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -20,7 +22,21 @@
     "vite": "^3.0.4",
     "vue": "^3.2.37"
   },
-  "dependencies": {
-    "floating-vue": "^2.0.0-beta.19"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zavalen/vue3-tailwind-pie-chart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zavalen/vue3-tailwind-pie-chart/issues"
+  },
+  "homepage": "https://github.com/zavalen/vue3-tailwind-pie-chart",
+  "keywords": [
+    "vue3",
+    "component",
+    "pie chart",
+    "tailwind"
+  ],
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "unpkg": "src/index.js"
 }
