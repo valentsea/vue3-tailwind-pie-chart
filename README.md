@@ -1,4 +1,7 @@
 # vue3-tailwind-pie-chart
+ [![Latest Version on NPM](https://img.shields.io/npm/v/draggable-resizable-vue3.svg?style=flat-square)](https://www.npmjs.com/package/draggable-resizable-vue3) 
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+ [![npm](https://img.shields.io/npm/dt/draggable-resizable-vue3.svg?style=flat-square)](https://www.npmjs.com/package/draggable-resizable-vue3) 
 
 ![preview](static/screenshot.png)
 
@@ -89,3 +92,22 @@ import { ProgressChart } from 'vue3-tailwind-pie-chart'
       </template>
     </progress-pie-chart>
 ```
+## Contributing
+
+Any contribution to the code or any part of the documentation and any idea and/or suggestion are very welcome.
+
+``` bash
+# clone the repository
+git clone git@github.com:zavalen/vue3-tailwind-pie-chart.git
+
+# serve with hot reload at localhost:5173
+npm run dev
+
+# distribution build
+npm run build
+
+```
+
+## License
+
+The MIT License (MIT). 
