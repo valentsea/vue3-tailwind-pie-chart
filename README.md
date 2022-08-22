@@ -1,7 +1,7 @@
 # vue3-tailwind-pie-chart
- [![Latest Version on NPM](https://img.shields.io/npm/v/draggable-resizable-vue3.svg?style=flat-square)](https://www.npmjs.com/package/draggable-resizable-vue3) 
+ [![Latest Version on NPM](https://img.shields.io/npm/v/vue3-tailwind-pie-chart.svg?style=flat-square)](https://www.npmjs.com/package/vue3-tailwind-pie-chart) 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
- [![npm](https://img.shields.io/npm/dt/draggable-resizable-vue3.svg?style=flat-square)](https://www.npmjs.com/package/draggable-resizable-vue3) 
+ [![npm](https://img.shields.io/npm/dt/vue3-tailwind-pie-chart.svg?style=flat-square)](https://www.npmjs.com/package/vue3-tailwind-pie-chart) 
 
 ![preview](static/screenshot.png)
 
