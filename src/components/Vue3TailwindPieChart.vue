@@ -12,7 +12,7 @@
         height: '100%',
         overflow: 'hidden',
         borderRadius: '50%',
-        transform: 'rotate(-90deg)',
+        transform: `rotate(-90deg) ${flip ? 'scale(1,-1)' : ''}`,
         pointerEvents: 'none',
       }"
       fill="currentColor"
@@ -46,6 +46,7 @@ const props = defineProps({
     default: 0,
   },
   progressClass: String,
+  flip: { type: Boolean, default: false },
 })
 
 const progress = computed(() => props.progress)
