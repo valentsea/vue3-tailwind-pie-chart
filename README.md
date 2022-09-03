@@ -92,6 +92,16 @@ import { ProgressChart } from 'vue3-tailwind-pie-chart'
       </template>
     </progress-pie-chart>
 ```
+
+### Сounterclockwise pie chart
+```vue
+    <progress-pie-chart
+      class="w-96 h-96 bg-slate-50 border shadow-sm"
+      :progress="progressTwo"
+      progress-class="text-blue-500 hover:text-blue-700  transition-colors"
+      :flip="true"
+    />
+```
 ## Contributing
 
 Any contribution to the code or any part of the documentation and any idea and/or suggestion are very welcome.
